@@ -1,6 +1,4 @@
 # test_repo
 
 
-THIS IS TO TEST POLL SCM OPTION.
-
-TESST VALIDATION
+Test validation
